@@ -22,7 +22,7 @@ export const Data = [
     id: 2,
     image: work2,
     title: "Hang-out",
-    description: "A small real-time chat Application where you can create your own room and add people you wanna chat and discuss the topics you want . Tech like reactJs, chatEngine react library and css is used",
+    description: "A small real-time chat Application where you can create your room and add people you wanna chat with. Tech like reactJs, chatEngine react library and css is used.",
     link: "https://hang-out-opal.vercel.app/",
   },
   {
@@ -46,7 +46,7 @@ export const Data = [
     image: work5,
     title: "CodSoft-Internship",
     description:
-      "This is the project which I made when I got the internship in codSoft a tech company. All the projects are deployed see the github link below.These project are made by HTML,CSS & JS.",
+      "This is the project which I made when I got the internship in codSoft a tech company. All the projects are deployed .These project are made by HTML,CSS & JS.",
     link: "https://github.com/dash-09/CodSoft-InternShip",
  }
 ];

@@ -17,19 +17,20 @@ export const Data = [
       "A beautiful notes application,completely made by ReactJs, Vercel and Scss, with properties, create,save,update and delete. ",
       link: "https://reactnotesapp-tau.vercel.app/",
   },
+ 
   {
     id: 2,
+    image: work2,
+    title: "Hang-out",
+    description: "A small real-time chat Application where you can create your own room and add people you wanna chat and discuss the topics you want . Tech like reactJs, chatEngine react library and css is used",
+    link: "https://hang-out-opal.vercel.app/",
+  },
+  {
+    id: 3,
     image: work3,
     title: "Parth-blog ",
     description:
       "It is my dream project, which is ONGOING. It is complete blog website based on mern stack with features like login, username, post etc. Nodejs, MangoDb tech are used .",
-    link: "#",
-  },
-  {
-    id: 3,
-    image: work2,
-    title: "Myinterests",
-    description: "A cool and fun project, where I have showcased My interests on various topics , like news, weather, time etc. It is also ONGOING . Based on Reactjs, Scss, Nodejs .",
     link: "#",
   },
   {
@@ -40,4 +41,12 @@ export const Data = [
       "This is the list of some Mini-project made by for kids around me and at my home. It is a repo where all project exist.Projects are based HTML, CSS, JS and Babel and other. ",
     link: "https://github.com/dash-09/MiniProjects",
   },
+ {
+   id: 5,
+    image: work5,
+    title: "CodSoft-Internship",
+    description:
+      "This is the project which I made when I got the internship in codSoft a tech company. All the projects are deployed see the github link below.These project are made by HTML,CSS & JS.",
+    link: "https://github.com/dash-09/CodSoft-InternShip",
+ }
 ];

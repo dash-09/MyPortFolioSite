@@ -71,7 +71,7 @@ const Footer = () => {
           </a>
         </div>
 
-        <span className="footer__copy">&#169; Adarsh Shukla</span>
+        <span className="footer__copy">&#169; Adarsh Shukla ❤️ </span>
       </div>
     </footer>
   );

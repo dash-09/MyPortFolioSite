@@ -34,7 +34,7 @@ const Backend = () => {
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">GraphSQL</h3>
+              <h3 className="skills__name">GraphQL</h3>
               <span className="skills__level">intermediate</span>
             </div>
           </div>

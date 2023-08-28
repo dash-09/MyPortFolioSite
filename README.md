@@ -3,9 +3,11 @@
  ## Tech-Used
 - ReactJS and Css
 ## Link
-- https://adarsh-shukla-website.vercel.app/
+- [Link to my Portfolio :](https://adarsh-shukla-website.vercel.app/) 
+ 
+## Preview :
 
-
+![mysite](https://github.com/dash-09/MyPortFolioSite/assets/74849401/31255203-6cff-4635-92f0-892a5c7b57e7)
 
 
 

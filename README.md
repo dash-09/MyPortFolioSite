@@ -3,7 +3,7 @@
  ## Tech-Used
 - ReactJS and Css
 ## Link
-- [Link to my Portfolio :](https://adarsh-shukla-website.vercel.app/) 
+- [Link to my Portfolio :](https://ad9z.me/) 
  
 ## Preview :
 

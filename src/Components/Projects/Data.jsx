@@ -29,7 +29,7 @@ export const Data = [
     id: 3,
     image: work3,
     title: "Adivi",
-    description:"A personal blog website project which is ONGOING. Adivi is complete made by Reactjs, Css, TailwindCss, GraphCms and GraphQl.",
+    description:"A personal blog website project which is ONGOING. Adivi is complete made by Reactjs, Css, TailwindCss, GraphCms and GraphQl.Features like user login and captcha verification Integrated. ",
     link: "https://github.com/dash-09/AdiviBlog",
   },
   {
@@ -37,7 +37,7 @@ export const Data = [
     image: work4,
     title: "Mini-Projects",
     description:
-      "This is the list of some Mini-project made by me for kids at my home to annoy them. It is a repo where all project exist.Projects are based HTML, CSS, JS and Babel and other. ",
+      "Collection of some Mini-project made by me for kids at my home to annoy them. It is a repo where all project exist. Projects are based HTML, CSS, JS and other. ",
     link: "https://github.com/dash-09/MiniProjects",
   },
  {

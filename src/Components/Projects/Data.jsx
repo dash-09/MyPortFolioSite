@@ -28,10 +28,9 @@ export const Data = [
   {
     id: 3,
     image: work3,
-    title: "Parth-blog ",
-    description:
-      "It is my dream project, which is ONGOING. It is complete blog website based on mern stack with features like login, username, post etc. Nodejs, MangoDb tech are used .",
-    link: "#",
+    title: "Adivi",
+    description:"A personal blog website project which is ONGOING. Adivi is complete made by Reactjs, Css, TailwindCss, GraphCms and GraphQl.",
+    link: "https://github.com/dash-09/AdiviBlog",
   },
   {
     id: 4,

@@ -37,7 +37,7 @@ export const Data = [
     image: work4,
     title: "Mini-Projects",
     description:
-      "Collection of some Mini-project made by me for kids at my home to annoy them. It is a repo where all project exist. Projects are based HTML, CSS, JS and other. ",
+      "Collection of some Mini-project made by me for kids at my home to annoy them.Projects are based HTML, CSS, JS and other.",
     link: "https://github.com/dash-09/MiniProjects",
   },
  {

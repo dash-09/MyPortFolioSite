@@ -21,14 +21,14 @@ export const Data = [
   {
     id: 2,
     image: work2,
-    title: "Hang-out",
-    description: "A Real-time chat Application where you can create your room and add people you wanna chat with and discuss the topics you want. Tech like reactJs, chatEngine react library and css is used.",
+    title: "Hang-out: Chat Room",
+    description: "A Real-time chat Room Application where you can create your room and add people you wanna chat with and discuss the topics you want. Tech like reactJs, chatEngine react library and css is used.",
     link: "https://hang-out-opal.vercel.app/",
   },
   {
     id: 3,
     image: work3,
-    title: "Adivi",
+    title: "Adivi : Personal Blog",
     description:"A personal blog website project which is ONGOING. Adivi is complete made by Reactjs, Css, TailwindCss, GraphCms and GraphQl.Features like user login and captcha verification Integrated. ",
     link: "https://github.com/dash-09/AdiviBlog",
   },

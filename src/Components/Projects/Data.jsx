@@ -21,7 +21,7 @@ export const Data = [
     id: 2,
     image: work2,
     title: "Hang-out: Chat Room",
-    description: "A Real-time chat Room Application where you can create your room and add people you wanna chat with and discuss the topics you want. Tech like reactJs, chatEngine react library and css is used.",
+    description: "A Real-time chatRoom Application where you can create your room ,add people and discuss the topics you want. Tech like reactJs, chatEngine react library and css is used.",
     link: "https://hang-out-opal.vercel.app/",
   },
   {

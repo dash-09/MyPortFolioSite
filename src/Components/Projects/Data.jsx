@@ -13,7 +13,7 @@ export const Data = [
   {
     id: 1,
     image: work3,
-    title: "Adivi:A Personal Blog From Adarsh",
+    title: "Adivi : A Personal Blog From Adarsh",
     description:"A personal blog website project which is ONGOING. Adivi is complete made by Reactjs, Css, TailwindCss, GraphCms and GraphQl.Features like user login and captcha verification Integrated. ",
     link: "https://adivi.vercel.app",
   },

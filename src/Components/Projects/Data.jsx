@@ -11,13 +11,11 @@ import work5 from "../../assets/work5.jpg";
 export const Data = [
   {
     id: 1,
-    image: work1,
-    title: "Dribble-Notes",
-    description:
-      "A beautiful notes application,completely made by ReactJs, Vercel and Scss, with properties, create,save,update and delete. ",
-      link: "https://reactnotesapp-tau.vercel.app/",
+    image: work3,
+    title: "Adivi:A Personal Blog From Adarsh",
+    description:"A personal blog website project which is ONGOING. Adivi is complete made by Reactjs, Css, TailwindCss, GraphCms and GraphQl.Features like user login and captcha verification Integrated. ",
+    link: "https://adivi.vercel.app",
   },
- 
   {
     id: 2,
     image: work2,
@@ -27,11 +25,13 @@ export const Data = [
   },
   {
     id: 3,
-    image: work3,
-    title: "Adivi : Personal Blog",
-    description:"A personal blog website project which is ONGOING. Adivi is complete made by Reactjs, Css, TailwindCss, GraphCms and GraphQl.Features like user login and captcha verification Integrated. ",
-    link: "https://github.com/dash-09/AdiviBlog",
+    image: work1,
+    title: "Dribble-Note",
+    description:
+      "A beautiful notes application,completely made by ReactJs, Vercel and Scss, with properties, create,save,update and delete. ",
+      link: "https://dribblenote.vercel.app/",
   },
+ 
   {
     id: 4,
     image: work4,
@@ -47,5 +47,13 @@ export const Data = [
     description:
       "This is the project which I made when I got the internship in codSoft a tech company. All the projects are deployed .These project are made by HTML,CSS & JS.",
     link: "https://github.com/dash-09/CodSoft-InternShip",
+ },
+ {
+   id: 6,
+    image: work6,
+    title: "CodeAlpha-Internship",
+    description:
+      "This is the project which I made when I got the internship in Code-Alpha a tech company. All the projects are deployed .These project are made by HTML,CSS & JS and WordPress.",
+    link: "https://github.com/dash-09/CodeAlpha",
  }
 ];
